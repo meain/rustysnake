@@ -1,0 +1,11 @@
+[package]
+name = "rustysnake"
+version = "0.1.0"
+authors = ["Abin Simon <abinsimon10@gmail.com>"]
+
+[dependencies]
+rand = "0.5.5"
+piston = "0.37.0"
+piston2d-graphics = "0.26.0"
+pistoncore-glutin_window = "0.48.0"
+piston2d-opengl_graphics = "0.54.0"
